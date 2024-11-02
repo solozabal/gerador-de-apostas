@@ -95,6 +95,3 @@ src/main/resources
    git push origin feature/nova-feature
    ```
 5. Crie um novo Pull Request.
-```
-
-Agora você pode copiar este texto completo sem problemas! Se precisar de mais alguma coisa, é só avisar.
